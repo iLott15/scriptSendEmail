@@ -1,0 +1,14 @@
+{
+  "name": "countvacation",
+  "version": "1.0.0",
+  "description": "contador de dias para as férias",
+  "main": "ivanlott@hotmail.com",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Ivan Lott",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemailer": "^6.9.1"
+  }
+}
